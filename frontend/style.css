@@ -1,0 +1,17 @@
+body{
+    background-color: blueviolet;
+    color: darkseagreen;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+h1{
+    font-weight: 900;
+}
+
+div{
+    font-weight: 400;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-size: medium;
+}
